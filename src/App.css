@@ -1,3 +1,58 @@
+.muxer header {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.muxer footer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
+
+pre {
+  text-align: left;
+}
+
+.section {
+  height: 100vh;
+}
+
+.section {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.example {
+  background-color: #957186;
+}
+
+.first {
+  background-color: #D9B8C4;
+}
+
+.second {
+  background-color: #703D57;
+}
+
+.third {
+  background-color: #402A2C;
+}
+
+.fourth {
+  background-color: #241715;
+}
+
+/* -------------------------------------------------------------------------- */
+
 .App {
   text-align: center;
 }
